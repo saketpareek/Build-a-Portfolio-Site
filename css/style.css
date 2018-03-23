@@ -3,17 +3,20 @@
 
 @media(min-width: 0px) {
   .img-heading {
-    font-size: 5rem;
+    font-size: 4rem;
   }
   .card {
     margin: 10px;
+  }
+  .img-paragraph {
+    font-size: 1.2rem;
   }
 }
 
 
 @media(min-width: 576px) {
   .img-heading {
-    font-size: 8rem;
+    font-size: 9rem;
   }
   .img-paragraph {
     font-size: 2.5rem;
@@ -23,21 +26,21 @@
 
 @media(min-width: 768px) {
   .img-heading {
-    font-size: 11rem;
+    font-size: 9rem;
   }
 }
 
 
 @media(min-width: 992px) {
   .img-heading {
-    font-size: 13rem;
+    font-size: 11rem;
   }
 }
 
 
 @media(min-width: 1200px) {
   .img-heading {
-    font-size: 15rem;
+    font-size: 13rem;
   }
 }
 
@@ -45,14 +48,14 @@
 /* BODY */
 
 body {
-  font-size: 1.3rem;
+  font-size: 1.1rem;
 }
 
 
 /* NAVIGATION */
 
 .nav-item {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   padding: 20px;
 }
 
