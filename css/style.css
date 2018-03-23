@@ -82,7 +82,7 @@ button:focus {
 /* HOME-SECTION */
 
 #home-section {
-  background: url(/img/home-img-1.jpg) no-repeat;
+  background: url(../img/home-img-1.jpg) no-repeat;
   position: relative;
   height: 80vh;
   background-size: cover;
