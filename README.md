@@ -1,1 +1,1 @@
-My first Portfolio Site using HTML, CSS and Bootstrap
+My first _Portfolio Site_ using **HTML, CSS** and **Bootstrap**
